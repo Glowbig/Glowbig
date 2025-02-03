@@ -1,16 +1,25 @@
-## Hi there 👋
+## ¡Hola! 👋
 
-<!--
-**Glowbig/Glowbig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Sobre mí
+- 🤖 **Ingeniero Mecatrónico** egresado del **ITM**  
+- 🏭 Trabajo en **Impresos Flexográficos** como **Desarrollador I+D**  
+- 🌍 Apasionado por el **IoT**, la **automatización** y el **desarrollo de hardware**  
+- 🕹️ Amante de los **videojuegos**  
 
-Here are some ideas to get you started:
+### 💻 Tecnologías que uso
+- 🔹 **C++** (especialmente para **Arduino**)  
+- 🐍 **Python**  
+- 🔗 **Protocolos de comunicación** (RS-485, Modbus, MQTT)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Actualmente...
+- 🌱 Aprendiendo **Git y GitHub**  
+- ⚡ Optimizando proyectos en **ESP32**  
+
+---
+
+### 📫 **¡Conéctemos!**  
+🔗 [LinkedIn](https://www.linkedin.com/in/adrian-estrada-1b8a74245/)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Glowbig/Glowbig)
+
+Si te interesa el **IoT**, la **programación embebida** o simplemente quieres charlar, ¡contáctame!  
