@@ -17,6 +17,12 @@
 
 - 🌱 Aprendiendo **Git y GitHub**  
 - ⚡ Optimizando proyectos en **ESP32**  
+---
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ---
 
