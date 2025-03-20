@@ -22,11 +22,10 @@
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)<br>
-2. ⭐ Starred [unic8s/hd2_macropad](https://github.com/unic8s/hd2_macropad)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 19th, 2025, 12:40:42 PM
+Last Updated: Thursday, March 20th, 2025, 1:38:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
